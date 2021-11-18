@@ -1,0 +1,15 @@
+.container {
+    margin: auto;
+    width: 300px;
+    text-align: center;
+}
+
+.btn-grid {
+    flex-wrap: wrap;
+    display: grid;
+    padding: 0 100px;
+}
+
+.btn {
+    border-width: 5px;
+}
